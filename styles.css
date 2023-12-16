@@ -12,6 +12,17 @@
     align-items: center;
     justify-content: center;
 }
+@media screen and (max-width: 480px) {
+     .container {
+        display: flex;
+        align-items: center;
+        width: 100vh;
+        height: 100vh;
+        box-sizing: border-box;
+        display: flex;
+    }
+}
+}
 .calculator{
     background: rgb(63, 18, 63);
     padding: 20px;

@@ -1,7 +1,5 @@
 body {
-    background: 100vh;
-    justify-content: center;
-    align-items: center;
+    background: 100%;
 }
 *{
     margin: 0;
@@ -66,7 +64,6 @@ form input.operator{
     color: rgb(114, 60, 31);
 }
 footer{
-    background: rgb(41, 24, 8);
     justify-content: flex;
     text-align: center;
     padding: 25px;

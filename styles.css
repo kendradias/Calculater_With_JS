@@ -22,7 +22,7 @@ body {
     background: rgb(63, 18, 63);
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: safe center;
     }
      .calculator {
     background: rgb(63, 18, 63);

@@ -1,5 +1,6 @@
 body {
     background: 100vh;
+    justify-content: center;
 }
 *{
     margin: 0;

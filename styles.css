@@ -23,6 +23,7 @@ body {
         height: 100vh;
         display: flex;
         justify-content: center;
+        position: relative;
     }
      .calculator {
        background: rgb(63, 18, 63);

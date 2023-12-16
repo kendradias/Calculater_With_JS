@@ -19,7 +19,7 @@ body {
      .container {
         display: flex-direction;
         align-items: center;
-        width: 100vh;
+        width: 480px;
         height: 100vh;
         justify-content: center;
     }

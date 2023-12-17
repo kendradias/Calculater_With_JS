@@ -30,6 +30,11 @@ body {
     border-radius: 10px;
     box-shadow:-5px -5px 15px rgba(0, 0, 0, 0.1);
 }
+    .calculator form input{
+        padding: 5px;
+        margin: none;
+    }
+    
 }
 .calculator {
     background: rgb(63, 18, 63);

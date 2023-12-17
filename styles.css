@@ -17,8 +17,8 @@ body {
 }
 @media screen and (max-width: 480px) {
      .container {
-    width: 100vh;
-    height: 100vh;
+    max-width: 100%;
+    height: auto;
     background: rgb(63, 18, 63);
     display: flex;
     align-items: center;
